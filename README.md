@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on open-source projects and further my knowledge
 - 📫 How to reach me rimfinh@gmail.com
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I'm a senior in college. I know a lot of coding languages. I want to be a full-stack web dev
 
 <!---
 MasonPorch/MasonPorch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
